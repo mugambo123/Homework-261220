@@ -1,0 +1,108 @@
+2020-12-29 21:12:60 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:923 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (66cd80569630776413b01d1819284951)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:698 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (66cd80569630776413b01d1819284951)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:164 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (66cd80569630776413b01d1819284951)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:537 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (66cd80569630776413b01d1819284951)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:724 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (66cd80569630776413b01d1819284951)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:909 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (66cd80569630776413b01d1819284951)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:679 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (66cd80569630776413b01d1819284951)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:717 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:695 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:109 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (78f75843cdfbd451126484ae1e114113)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:913 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (78f75843cdfbd451126484ae1e114113)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:316 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (78f75843cdfbd451126484ae1e114113)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:499 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (78f75843cdfbd451126484ae1e114113)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:670 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (78f75843cdfbd451126484ae1e114113)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:825 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (78f75843cdfbd451126484ae1e114113)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:752 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (78f75843cdfbd451126484ae1e114113)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:205 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:579 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:249 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (5db8dd7717a269f07ef752f373f5b92a)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:380 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (5db8dd7717a269f07ef752f373f5b92a)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:785 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (5db8dd7717a269f07ef752f373f5b92a)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:979 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (5db8dd7717a269f07ef752f373f5b92a)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:201 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (5db8dd7717a269f07ef752f373f5b92a)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:370 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (5db8dd7717a269f07ef752f373f5b92a)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:213 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (5db8dd7717a269f07ef752f373f5b92a)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:244 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:517 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:681 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (b4eb09f0c38259be2d4d35644b2da101)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:562 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (b4eb09f0c38259be2d4d35644b2da101)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:347 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (b4eb09f0c38259be2d4d35644b2da101)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:713 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (b4eb09f0c38259be2d4d35644b2da101)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:27 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (b4eb09f0c38259be2d4d35644b2da101)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:289 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (b4eb09f0c38259be2d4d35644b2da101)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:960 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (b4eb09f0c38259be2d4d35644b2da101)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:40 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:576 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:32 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (271de318f12422ba686836cfd37df465)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:117 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (271de318f12422ba686836cfd37df465)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:437 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (271de318f12422ba686836cfd37df465)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:722 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (271de318f12422ba686836cfd37df465)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:27 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (271de318f12422ba686836cfd37df465)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:284 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (271de318f12422ba686836cfd37df465)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:319 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (271de318f12422ba686836cfd37df465)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:392 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:470 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:64 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (0116f40ae63d78d908a4b9147695b07f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:551 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (0116f40ae63d78d908a4b9147695b07f)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:239 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (0116f40ae63d78d908a4b9147695b07f)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:588 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (0116f40ae63d78d908a4b9147695b07f)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:890 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (0116f40ae63d78d908a4b9147695b07f)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:158 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (0116f40ae63d78d908a4b9147695b07f)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:758 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (0116f40ae63d78d908a4b9147695b07f)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:848 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:440 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:328 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (a2cf36016dac9aa78f6046576e4a07ea)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:225 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (a2cf36016dac9aa78f6046576e4a07ea)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:915 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (a2cf36016dac9aa78f6046576e4a07ea)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:227 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (a2cf36016dac9aa78f6046576e4a07ea)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:504 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (a2cf36016dac9aa78f6046576e4a07ea)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:809 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (a2cf36016dac9aa78f6046576e4a07ea)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:673 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (a2cf36016dac9aa78f6046576e4a07ea)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:798 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:671 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:849 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (ea95946eb9fa39081368c325a61f7a3c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:571 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (ea95946eb9fa39081368c325a61f7a3c)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:161 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (ea95946eb9fa39081368c325a61f7a3c)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:403 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (ea95946eb9fa39081368c325a61f7a3c)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:648 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (ea95946eb9fa39081368c325a61f7a3c)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:900 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (ea95946eb9fa39081368c325a61f7a3c)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:784 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (ea95946eb9fa39081368c325a61f7a3c)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:688 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:206 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:118 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (18d812a07fafe7587f9080b3a64e4851)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:822 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (18d812a07fafe7587f9080b3a64e4851)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:409 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (18d812a07fafe7587f9080b3a64e4851)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:629 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (18d812a07fafe7587f9080b3a64e4851)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:861 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (18d812a07fafe7587f9080b3a64e4851)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:109 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (18d812a07fafe7587f9080b3a64e4851)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:662 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (18d812a07fafe7587f9080b3a64e4851)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:82 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 21:12:488 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 21:12:223 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (cd25d1357a35ecb806caf1b6711e54c2)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 21:12:329 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (cd25d1357a35ecb806caf1b6711e54c2)] -> xpath: //select[@id='makes']]
+2020-12-29 21:12:682 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (cd25d1357a35ecb806caf1b6711e54c2)] -> xpath: //select[@id='models']]
+2020-12-29 21:12:946 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (cd25d1357a35ecb806caf1b6711e54c2)] -> xpath: //select[@id='locations']]
+2020-12-29 21:12:265 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (cd25d1357a35ecb806caf1b6711e54c2)] -> xpath: //select[@id='priceTo']]
+2020-12-29 21:12:513 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (cd25d1357a35ecb806caf1b6711e54c2)] -> xpath: //input[@id='search-submit']]
+2020-12-29 21:12:284 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (cd25d1357a35ecb806caf1b6711e54c2)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 21:12:421 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 22:12:809 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 22:12:420 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (e1edf713a2904a772299188c4c9d5dc4)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 22:12:537 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (e1edf713a2904a772299188c4c9d5dc4)] -> xpath: //select[@id='makes']]
+2020-12-29 22:12:924 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (e1edf713a2904a772299188c4c9d5dc4)] -> xpath: //select[@id='models']]
+2020-12-29 22:12:184 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (e1edf713a2904a772299188c4c9d5dc4)] -> xpath: //select[@id='locations']]
+2020-12-29 22:12:421 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (e1edf713a2904a772299188c4c9d5dc4)] -> xpath: //select[@id='priceTo']]
+2020-12-29 22:12:664 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (e1edf713a2904a772299188c4c9d5dc4)] -> xpath: //input[@id='search-submit']]
+2020-12-29 22:12:597 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (e1edf713a2904a772299188c4c9d5dc4)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 22:12:657 INFO  SearchCarsResultPage :28 - Get title of page : 
+2020-12-29 22:12:958 INFO  BasePage :32 - Launching Chrome Browser
+2020-12-29 22:12:200 INFO  HomePage :31 - Mouse Hover on buy+sell : [[ChromeDriver: chrome on WINDOWS (325fce288193d4436452e2eb4017e141)] -> xpath: //a[contains(text(),'buy + sell')]]
+2020-12-29 22:12:678 INFO  SearchCarsPage :35 - Select car brand : [[ChromeDriver: chrome on WINDOWS (325fce288193d4436452e2eb4017e141)] -> xpath: //select[@id='makes']]
+2020-12-29 22:12:962 INFO  SearchCarsPage :42 - Select car model : [[ChromeDriver: chrome on WINDOWS (325fce288193d4436452e2eb4017e141)] -> xpath: //select[@id='models']]
+2020-12-29 22:12:224 INFO  SearchCarsPage :49 - Select car location : [[ChromeDriver: chrome on WINDOWS (325fce288193d4436452e2eb4017e141)] -> xpath: //select[@id='locations']]
+2020-12-29 22:12:454 INFO  SearchCarsPage :56 - Select car maximum price : [[ChromeDriver: chrome on WINDOWS (325fce288193d4436452e2eb4017e141)] -> xpath: //select[@id='priceTo']]
+2020-12-29 22:12:709 INFO  SearchCarsPage :63 - Submit search criteria : [[ChromeDriver: chrome on WINDOWS (325fce288193d4436452e2eb4017e141)] -> xpath: //input[@id='search-submit']]
+2020-12-29 22:12:587 INFO  SearchCarsResultPage :21 - Get text from search result : [[ChromeDriver: chrome on WINDOWS (325fce288193d4436452e2eb4017e141)] -> xpath: //h1[@class = "listing-search-title"]]
+2020-12-29 22:12:678 INFO  SearchCarsResultPage :28 - Get title of page : 

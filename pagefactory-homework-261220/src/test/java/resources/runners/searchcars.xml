@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SearchCarTest" verbose="1" >
+    <listeners>
+        <listener class-name="au.com.carsguide.customlisteners.CustomListeners"/>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+    <test name="SearchCarTest" >
+        <classes>
+            <class name="au.com.carsguide.testsuite.SearchCarsTest"/>
+        </classes>
+    </test>
+</suite>
